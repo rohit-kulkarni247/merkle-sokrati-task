@@ -1,8 +1,8 @@
 # MERKLE SOKRATI ASSIGNMENT
 
 ## Contents
-### 1)analysis1.ipynb (jupyter notebook for assignmnet-1) 
-### 2)analysis2.ipynb (jupyter notebook for assignmnet-2)
+### 1)analysis1.ipynb (jupyter notebook for assignment-1) 
+### 2)analysis2.ipynb (jupyter notebook for assignment-2)
 ### 3)data.xlsx (raw excel data for analysis) 
 ### 4)results.pptx (Summary of the results)
 
